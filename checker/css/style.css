@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+body{
+	background-color: aliceblue;
+	font-size: 24px;
+}
+
+h1{
+	color: #FFA500;
+	font-family: "Comic Neue", cursive;
+	font-size: 2.5em;
+	text-align: center;
+}
+
+form{
+	width: fit-content;
+	margin: auto;
+}
+
+input{
+	height:30px;
+	width:auto;
+	margin:0 7px;
+	font-size: 100%;
+}
+
+table{
+	margin:auto;
+}
+
+table, td, th { 
+	border: 2px #808080 solid;
+	padding: 5px; 
+}
+
+.message{
+	width: auto;
+	height: auto;
+	text-align: center;
+	text-decoration: underline;
+	color:#ff6666;
+	margin:auto;
+	padding: 2px;
+}
